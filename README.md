@@ -25,7 +25,8 @@ It can be a language, operating system, tool, framework, database, or whatever i
 - [x] Google Workspace/GSuite/Google Apps for Your Domain :star::star:
 - [x] Azure DevOps :star:
 - [x] Atlassian (Jira Software, Confluence, Jira Service Management, Bitbucket) :star::star:
-- [ ] MQTT :star:
+- [x] MQTT :star:
+- [x] BASH :star::star:
 
 ## SBC, Microcontroller
 - [x] Raspberry Pi :star:
@@ -44,22 +45,27 @@ It can be a language, operating system, tool, framework, database, or whatever i
 - [ ] Cassandra
 
 ## Languages & Frameworks
-- [x] Java :star::star:
+- [x] Vanilla Java :star::star:
 - [x] SpringBoot :star:
+- [ ] Kotlin
 - [x] Python :star:
 - [x] Django :star:
 - [x] Flask :star:
 - [x] FastAPI :star:
-- [x] PHP :star::star:
+- [x] Vanilla PHP :star::star:
 - [x] CodeIgniter :star::star:
 - [x] Laravel :star:
 - [x] Lumen :star:
-- [x] JavaScript :star:
-- [x] TypeScript :star:
+- [x] Vanilla JavaScript :star:
+- [x] Vanilla TypeScript :star:
 - [x] NuxtJS :star:
 - [x] AngularJS :star:
 - [x] VueJS :star:
 - [x] WordPress :star:
+- [ ] NextJS
+- [x] Vanilla CSS :star:
+- [x] BootstrapCSS :star::star:
+- [x] TailwindCSS :star:
 
 ## Cloud Provider
 - [x] Amazon Web Services (AWS) :star::star:
