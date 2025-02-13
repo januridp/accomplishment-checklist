@@ -2,7 +2,7 @@
 A checklist, tools which I have already hands-on.
 It can be a language, operating system, tool, framework, database, or whatever it is.
 
-## The :star: Stars represent the level of knowledge or confidence or whatever haha
+## The :star: Stars represent the level of knowledge or confidence or whatever 😆
 - Beginner/Pernah/Less Access/I knew it bro :star:
 - Intermediate/Daily/Often/Existing :star::star:
 - Advanced/Intense/Master/Ngelotok/Guru :star::star::star:
